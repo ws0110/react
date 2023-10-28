@@ -1,3 +1,9 @@
+76ba776bebe1a26eff35fdfb26c98695
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3NmJhNzc2YmViZTFhMjZlZmYzNWZkZmIyNmM5ODY5NSIsInN1YiI6IjY1MmYwNjhlMDI0ZWM4MDEzYzU5YWFmNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.0s2sOoBoPEs7lvdKibvkY1Pxs64t6VSPeQH9NmiUcJU
+
+https://api.themoviedb.org/3/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
